@@ -21,4 +21,5 @@ Tudo começou por conta do jogo **Minecraft** e seus servidores, comecei aprende
 Entre outras tecnologias que fui aprendendo e utilizando quando necessario 💻 Possuo conhecimento basico de Linux, apenas utilizei distros simples como o **Mint** e o **CentOS** 🐧.
 
 Caso queira entrar em contato comigo 📞
+
 [![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/294204654185873408)
