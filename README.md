@@ -20,6 +20,8 @@ Tudo começou por conta do jogo **Minecraft** e seus servidores, comecei aprende
 - Angular
 - ASP.NET
 - NestJS
+- EntityFramework
+- Spring
 
 Entre outras tecnologias que fui aprendendo e utilizando quando necessario 💻 Possuo conhecimento basico de Linux, apenas utilizei distros simples como o **Mint** e o **CentOS** 🐧.
 
