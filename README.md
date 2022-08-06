@@ -1,6 +1,6 @@
 ### Olá, me chamo Vitor 👻
 
-Atualmente possuo 17 anos, comecei estudar programação aos 11 anos de idade por conta propia, sou muito curioso e gosto de "fuçar" tudo 🐶.
+Atualmente possuo 18 anos, comecei estudar programação aos 11 anos de idade por conta propia, sou muito curioso e gosto de "fuçar" tudo 🐶.
 
 Tudo começou por conta do jogo **Minecraft** e seus servidores, comecei aprendendo **Java** e hoje em dia tenho conhecimento de varias tecnologias tais como:
 
