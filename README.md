@@ -1,8 +1,8 @@
-### Olá, me chamo Vitor 👻
+### Hi, my name is Victor 👻
 
-Atualmente possuo 18 anos, comecei estudar programação aos 11 anos de idade por conta propia, sou muito curioso e gosto de "fuçar" tudo 🐶.
+I'm currently 18 years old, I started studying programming at 11 on my own, I'm very curious and I like to "tinker" with everything 🐶.
 
-Tudo começou por conta do jogo **Minecraft** e seus servidores, comecei aprendendo **Java** e hoje em dia tenho conhecimento de varias tecnologias tais como:
+It all started because of the Minecraft game and its servers, I started learning Java and nowadays I have knowledge of several technologies such as:
 
 - Java
 - JavaScript
@@ -23,8 +23,8 @@ Tudo começou por conta do jogo **Minecraft** e seus servidores, comecei aprende
 - EntityFramework
 - Spring
 
-Entre outras tecnologias que fui aprendendo e utilizando quando necessario 💻 Possuo conhecimento basico de Linux, apenas utilizei distros simples como o **Mint** e o **CentOS** 🐧.
+Among other technologies that I learned and used when necessary 💻 I have basic knowledge of Linux, I only used simple distros like **Mint** and **CentOS** 🐧.
 
-Caso queira entrar em contato comigo 📞
+If you want to contact me 📞
 
 [![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/294204654185873408)
