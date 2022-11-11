@@ -22,6 +22,7 @@ It all started because of the Minecraft game and its servers, I started learning
 - NestJS
 - EntityFramework
 - Spring
+- Go
 
 Among other technologies that I learned and used when necessary 💻 I have basic knowledge of Linux, I only used simple distros like **Mint** and **CentOS** 🐧.
 
