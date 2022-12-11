@@ -1,4 +1,4 @@
-### Hi, my name is Victor 👻
+### Hi, my name is Vitor 👻
 
 I'm currently 18 years old, I started studying programming at 11 on my own, I'm very curious and I like to "tinker" with everything 🐶.
 
