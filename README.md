@@ -4,25 +4,7 @@ I'm currently 18 years old, I started studying programming at 11 on my own, I'm 
 
 It all started because of the Minecraft game and its servers, I started learning Java and nowadays I have knowledge of several technologies such as:
 
-- Java
-- JavaScript
-- HMTL
-- CSS
-- NodeJS
-- C#
-- PHP
-- MySQL
-- MongoDB
-- React
-- CodeIgniter
-- Arduino
-- TypeScript
-- Angular
-- ASP.NET
-- NestJS
-- EntityFramework
-- Spring
-- Go
+Java, Spring, JavaScript, HTML, CSS, SASS, NodeJS, C#, PHP, Go, SQL, MongoDB, React, CodeIgniter, Arduino, TypeScript, Angular, ASP.NET, NestJS, EntityFramework, Spring, Java Swing, Java FX, Grafana,Team City, RabbitMQ, Kafka, gRPC.
 
 Among other technologies that I learned and used when necessary 💻 I have basic knowledge of Linux, I only used simple distros like **Mint** and **CentOS** 🐧.
 
