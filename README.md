@@ -1,7 +1,7 @@
-### Hello, my name is Vitor!
+### Hi
 
-I have a deep passion for technology and I love solving problems through it. I have been programming since I was 11 years old and, since then, this passion has only grown. I have a great interest in software architecture and I am always looking for new challenges and learning.
+I am a problem solver at core with a deep focus on software architecture and microservices. Having studied programming since the age of 11, I specialize in building scalable, mission-critical backend systems that handle high-volume data processing (billions of records annually).
 
-If you want to contact me 📞
+I believe languages are tools; my expertise lies in designing resilient architectures, implementing distributed patterns, and optimizing complex workflows. From drafting ADRs to deploying full-cycle cloud solutions, I bridge the gap between business challenges and robust engineering.
 
-[![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/294204654185873408)
+[Linkedin](https://www.linkedin.com/in/vitor-jesus-17134b242/)
